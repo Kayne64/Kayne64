@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello I am Kayne64
 
-<!--
-**Kayne64/Kayne64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/XH6sCKxewk)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/kayne64)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Join my Discord [Discord](https://discord.gg/XH6sCKxew)
+
+### Projects
+
+- 🖥️ &nbsp [Effects](https://github.com/kayne64/effects)
+- 🖥️ &nbsp [Smart Ragdoll](https://github.com/kayne64/smartragdoll)
+- 🖥️ &nbsp [Discord RPC](https://github.com/kayne64/discordrpc)
+
+### Languages & Tools
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
+![HTML](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg)
+![CSS](https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### 🤓 Github Statistics
+<p align="center>
+<a href="https://github.com/kayne64">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kayne64&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>    
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kayne64&layout=compact&langs_count=8&theme=react"/>
+###
+
+<h4 align=center>Star one of my repositories for a cookie!</h4>
