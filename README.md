@@ -4,7 +4,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/kayne64)
 
 
-Join my Discord [Discord](https://discord.gg/XH6sCKxew)
+Join my [Discord](https://discord.gg/XH6sCKxew)
 
 ### Projects
 
@@ -14,8 +14,8 @@ Join my Discord [Discord](https://discord.gg/XH6sCKxew)
 
 ### Languages & Tools
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
-![CSS]
-![HTML]
+![CSS]()
+![HTML]()
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🤓 Github Statistics
