@@ -3,9 +3,6 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/XH6sCKxewk)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/kayne64)
 
-
-Join my [Discord](https://discord.gg/XH6sCKxew)
-
 ### Projects
 
 - 🖥️ &nbsp; [Effects](https://github.com/kayne64/effects)
