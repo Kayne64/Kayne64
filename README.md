@@ -23,4 +23,4 @@ Join my [Discord](https://discord.gg/XH6sCKxew)
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kayne64&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>    
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kayne64&layout=compact&langs_count=8&theme=react"/>
 
-<h4 align=center>Star one of my repositories for a cookie!</h4>
+<h4 align=center>Star one of my repositories for a choccy!</h4>
