@@ -9,12 +9,20 @@
 - 🖥️ &nbsp; [Smart Ragdoll](https://github.com/kayne64/smartragdoll)
 - 🖥️ &nbsp; [Discord RPC](https://github.com/kayne64/discordrpc)
 
-### Languages & Tools
+### Languages ⚙️
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
 ![Javascript](https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074)&nbsp;
 ![Node.JS](https://camo.githubusercontent.com/7659585b1e4c20c318f170a540852bfdb675907e3f70d05dc29cf5bde1081250/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73)&nbsp;
-![C#](https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67)
+![C#]
+(https://miro.medium.com/max/1400/1*w0u2TZpEp3WfKMrlL5jTSw.png)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### Tools ⚙️
+- OS: MacOS & Windows 10
+- Laptop: 2021 M1 Macbook Air
+- Computer: Intel i5, GTX 1060, 16GB RAM
+- Code Editor: Visual Studio, Visual Studio Code
+- Browser: Google Chrome
 
 ### 🤓 Github Statistics
 <p align="left">
